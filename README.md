@@ -11,3 +11,4 @@ Key features include:
 - Step-by-step scenarios for learning networking concepts  
 
 This repository serves as a **hands-on learning platform** for CCNA, networking labs, and general networking practice.
+### For a detailed overview, please refer to the following GitHub repository: https://github.com/RashikRahman/3.2_Notes/tree/master/CSE_320_Computer%20Networks%20Lab
